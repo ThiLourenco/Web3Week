@@ -47,7 +47,7 @@ The app will be available for access on your browser at http://localhost:3000
 
 ## 📝 License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE.md) file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
 
